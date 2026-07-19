@@ -1,5 +1,7 @@
 <img src="card.svg" width="100%" alt="Rohan Ramachandran. CS undergraduate at Columbia, working on interpretability, model safety, and edge AI. Alignment should be quantified, not asserted. Robots, wearables, and drones should reason about their world on a battery. Current work: Boundary-Adjacent Benign Evaluation (BABE) — a benchmark for auditing LLM safety interventions (Columbia Software Systems Lab, in preparation). Air Force Research Laboratory — on-device architectures for few-shot autonomous visual reasoning (Information and Spectrum Warfare Directorate). SpineSync — radiation-free Parkinson's tracking wearable (IEEE 2025, provisional patent). concept-atlas — causal concept graphs read out of transformer internals: probes, activation patching, D3.">
 
+CS undergraduate at Columbia working on interpretability, model safety, and edge AI. Current work: BABE, a benchmark for auditing LLM safety interventions (Columbia Software Systems Lab, in preparation); on-device architectures for few-shot autonomous visual reasoning at the Air Force Research Laboratory; SpineSync, a radiation-free Parkinson's tracking wearable (IEEE 2025, provisional patent); and concept-atlas, causal concept graphs read out of transformer internals.
+
 ### Elsewhere
 
 [rohanramachandran.net](https://rohanramachandran.net) · [LinkedIn](https://www.linkedin.com/in/rohan-ramachandran88) · [rohan.ramachandran@columbia.edu](mailto:rohan.ramachandran@columbia.edu)
