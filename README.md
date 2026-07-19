@@ -1,16 +1,27 @@
-## Hi there 👋
+### Rohan Ramachandran
 
-<!--
-**rohanramachandran/rohanramachandran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS undergraduate at Columbia, working on interpretability, model
 
-Here are some ideas to get you started:
+safety, and edge AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Alignment should be quantified, not asserted. Robots, wearables, and
+
+drones should reason about their world on a battery.
+
+**Current work**
+
+- BABE — a benchmark for auditing LLM safety interventions (Columbia
+
+  Software Systems Lab, in preparation)
+
+- Air Force Research Laboratory — on-device architectures for few-shot
+
+  visual reasoning (Information and Spectrum Warfare Directorate)
+
+- [SpineSync](https://github.com/rohanramachandran/SpineSync) —
+
+  radiation-free Parkinson's tracking wearable (IEEE 2025, provisional
+
+  patent)
+
+**[rohanramachandran.net](https://rohanramachandran.net)**
