@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="470" viewBox="0 0 920 470" role="img" aria-label="Rohan Ramachandran — CS undergraduate at Columbia, working on interpretability, model safety, and edge AI.">
+  <style>
+    .mono  { font-family: ui-monospace, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; }
+    .serif { font-family: Charter, "Bitstream Charter", Cambria, Georgia, serif; }
+  </style>
+  <rect x="0.5" y="0.5" width="919" height="469" fill="#0a0a0a" stroke="#2a2a2a" stroke-width="1"/>
+
+  <text x="44" y="76" class="mono" font-size="31" font-weight="700" letter-spacing="-0.5" fill="#e7e6e2">Rohan Ramachandran</text>
+
+  <text x="44" y="120" class="serif" font-size="17" fill="#d2d1cd">CS undergraduate at Columbia, working on interpretability, model safety, and edge AI.</text>
+
+  <text x="44" y="152" class="serif" font-size="17" fill="#8a8a8a">Alignment should be quantified, not asserted. Robots, wearables, and drones</text>
+  <text x="44" y="176" class="serif" font-size="17" fill="#8a8a8a">should reason about their world on a battery.</text>
+
+  <line x1="44" y1="210" x2="876" y2="210" stroke="#2a2a2a" stroke-width="1"/>
+
+  <text x="44" y="242" class="mono" font-size="13" font-weight="600" letter-spacing="3" fill="#888888">Current work</text>
+
+  <rect x="44" y="266" width="5" height="5" fill="#9fb6c9"/>
+  <text x="62" y="274" class="serif" font-size="16" fill="#b3b2ae"><tspan class="mono" font-size="15" font-weight="600" fill="#d6e2ec">Boundary-Adjacent Benign Evaluation (BABE)</tspan> — a benchmark for auditing LLM safety</text>
+  <text x="62" y="296" class="serif" font-size="16" fill="#b3b2ae">interventions (Columbia Software Systems Lab, in preparation)</text>
+
+  <rect x="44" y="320" width="5" height="5" fill="#9fb6c9"/>
+  <text x="62" y="328" class="serif" font-size="16" fill="#b3b2ae"><tspan class="mono" font-size="15" font-weight="600" fill="#d6e2ec">Air Force Research Laboratory</tspan> — on-device architectures for few-shot autonomous</text>
+  <text x="62" y="350" class="serif" font-size="16" fill="#b3b2ae">visual reasoning (Information and Spectrum Warfare Directorate)</text>
+
+  <rect x="44" y="374" width="5" height="5" fill="#9fb6c9"/>
+  <text x="62" y="382" class="serif" font-size="16" fill="#b3b2ae"><tspan class="mono" font-size="15" font-weight="600" fill="#d6e2ec">SpineSync</tspan> — radiation-free Parkinson's tracking wearable (IEEE 2025, provisional patent)</text>
+
+  <rect x="44" y="406" width="5" height="5" fill="#9fb6c9"/>
+  <text x="62" y="414" class="serif" font-size="16" fill="#b3b2ae"><tspan class="mono" font-size="15" font-weight="600" fill="#d6e2ec">concept-atlas</tspan> — causal concept graphs read out of transformer internals: probes,</text>
+  <text x="62" y="436" class="serif" font-size="16" fill="#b3b2ae">activation patching, D3</text>
+</svg>
